@@ -95,12 +95,12 @@ body {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: var(--white);
+    cursor: pointer;
 }
 
 .main-button:hover,
 .main-button:focus {
     background-color: var(--ocean);
-    cursor: pointer;
 }
 
 .sub-title {
@@ -160,6 +160,7 @@ body {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: var(--iris);
+    cursor: pointer;
     background-color: var(--cloud);
 }
 
@@ -167,7 +168,6 @@ body {
 .btn-menu:hover {
     color: #ffffff;
     background-color: #404bbf;
-    cursor: pointer;
 }
 
 .portfolio-title {
